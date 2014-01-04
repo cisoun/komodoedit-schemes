@@ -1,7 +1,7 @@
 komodoedit-schemes
 ==================
 
-Some of my own Komodoedit schemes.
+Some of my own Komodoedit schemes.  
 Mainly work for Python and normal texts. Feel free to add other languages support.
 
 
@@ -17,4 +17,4 @@ Check out the screenshots here : https://github.com/cisoun/komodoedit-schemes/tr
 Installation
 ============
 
-Simply move the KSF files to ~/.komodoedit/<your_version>/schemes.
+Simply move the KSF files to ~/.komodoedit/\<your_version\>/schemes.
